@@ -1,7 +1,5 @@
 # purple-fitness-mobile-app
 
-# 🏋️‍♂️ FitFlex – Workout Explorer App
-
 **Purple Fitness** is a sleek and intuitive mobile fitness application built with **React Native** and **TypeScript**, designed to help users explore and learn various workout exercises categorized by muscle groups. Whether you're at the gym, at home, or on the go, FitFlex gives you access to detailed instructions and exercise variations to help you reach your fitness goals effectively.
 
 ---
