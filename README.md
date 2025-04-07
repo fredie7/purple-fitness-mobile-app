@@ -3,7 +3,7 @@
 **Purple Fitness** is a sleek and intuitive mobile fitness application built with **React Native** and **TypeScript**, designed to help users explore and learn various workout exercises categorized by muscle groups. Whether you're at the gym, at home, or on the go, FitFlex gives you access to detailed instructions and exercise variations to help you reach your fitness goals effectively.
 
 ---
-
+![image alt](https://github.com/fredie7/purple-fitness-mobile-app/blob/759713fd3c426ab63c02f04a0e1a7b44c9e86cc9/MergedImages.png)
 ## 📱 Features
 
 ### ✅ Muscle Group-Based Navigation
